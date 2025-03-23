@@ -1,2 +1,2 @@
-C files were compiled with MSVC
-asm files were compiled with MASM 64
+C files were compiled with MSVC  <br/>
+asm files were compiled with MASM 64  <br/>
